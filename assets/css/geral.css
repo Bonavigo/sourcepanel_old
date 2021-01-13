@@ -1,6 +1,62 @@
+@import url("boxes.css");
 * {
 	font-family:'Roboto';
 }
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
 .modal-cadastro {
 	width:35%;
+}
+::-webkit-scrollbar {
+	width: 3px;
+}
+
+::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px #FFF; 
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #424242; 
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #424242; 
+}
+.notifica {
+    width:100% !important;
+    max-width:300px !important;
+}
+.notifica-header {
+    color:#FFF !important;
+    font-weight:800;
+}
+.notifica-bottom {
+    height:15px !important;
+}
+.financeiro {
+    background: #fdd9a3 !important;
+}
+.alerta {
+    background: #ffd9d9 !important;
+}
+.aviso {
+    background: #a697b1 !important;
+}
+.comentario {
+    background: #dee8f1 !important;
+}
+.patrulha {
+    background: #d8eac3 !important;
+}
+.notifica-notificacao {
+    color:#000 !important;
 }

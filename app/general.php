@@ -8,7 +8,7 @@
 
 	DB::$user = 'root';
 	DB::$password = '';
-	DB::$dbName = 'painel';
+	DB::$dbName = 'sourcepanel';
 	DB::$host = 'localhost';
 	DB::$port = '3306';
 	DB::$encoding = 'utf8';

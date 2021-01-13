@@ -1,0 +1,30 @@
+.box {
+	background: url(../img/modal/1.png) no-repeat,
+	url(../img/modal/2.png) no-repeat right top,
+	url(../img/modal/3.png) no-repeat left bottom,
+	url(../img/modal/4.png) no-repeat right bottom,
+	url(../img/modal/5.png) repeat-x top,
+	url(../img/modal/6.png) repeat-y,
+	url(../img/modal/7.png) repeat-y right,
+	url(../img/modal/8.png) repeat-x bottom,
+	url(../img/modal/mid.png) #EFEFEF;
+	border: 0px;
+	border-radius: 16px;
+	padding: 5px;
+	color: #000;
+}
+.box2 {
+	background: url(../img/modal1/1.png) no-repeat,
+	url(../img/modal1/2.png) no-repeat right top,
+	url(../img/modal1/3.png) no-repeat left bottom,
+	url(../img/modal1/4.png) no-repeat right bottom,
+	url(../img/modal1/5.png) repeat-x,
+	url(../img/modal1/6.png) repeat-y,
+	url(../img/modal1/7.png) repeat-y right,
+	url(../img/modal1/8.png) repeat-x bottom,
+	url(../img/modal1/mid.png) #393939;
+	border: 0px;
+	border-radius: 18px;
+	padding: 20px;
+	color: #B5EF6B;
+}
