@@ -4,6 +4,7 @@
 			$dados = DB::queryFirstRow("SELECT * FROM usuarios WHERE usuario=%s", $usuario);
 			if (DB::affectedRows($dados) > 0) {
 				if (md5('source0120panel'.$senha) == $dados['senha']) {
+					$_SESSION['id'] = $dados['id'];
 					$_SESSION['usuario'] = $usuario;
 					$logar = DB::query("UPDATE usuarios SET ip_ultimo_login=%s0 WHERE usuario=%s1", $_SERVER['REMOTE_ADDR'], $usuario);
 					echo '<script>location.href="index.php"</script>';
@@ -28,7 +29,8 @@
 						'senha' => md5('source0120panel'.$senha),
 						'criacao' => time(),
 						'ip_criacao' => $_SERVER['REMOTE_ADDR'],
-						'ip_ultimo_login' => $_SERVER['REMOTE_ADDR']
+						'ip_ultimo_login' => $_SERVER['REMOTE_ADDR'],
+						'moedas' => '0'
 					]);
 					$_SESSION['sucesso'] = 'Conta criada com sucesso!';
 				}
