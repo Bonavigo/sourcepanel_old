@@ -1,4 +1,8 @@
 # Sourcepanel
+## PROJETO ABANDONADO
+Este é um projeto antigo e abandonado meu, que comecei a desenvolver em paralelo com o painel do ExBR do Habbo (que é usado por duas instituições hoje, e uma delas, Cmd_AnonimoBR, retirou totalmente meus créditos, creditando apenas o "CTEx", mesmo que a liderança do CTEx fosse eu e o Nando e os alunos não tivessem desenvolvido nada para o site tem si).
+
+Se quiser reusar alguma coisa daí, sinta-se livre, mas acho que não conseguirá. Nem o Banco de Dados tenho mais, já que formatei o computador algumas vezes desde então, mas acho que pelo código é possível "reconstruir" o banco.
 
 <img src="https://i.imgur.com/63hyOcy.png">
 
