@@ -4,6 +4,8 @@ Este é um projeto antigo e abandonado meu, que comecei a desenvolver em paralel
 
 Se quiser reusar alguma coisa daí, sinta-se livre, mas acho que não conseguirá. Nem o Banco de Dados tenho mais, já que formatei o computador algumas vezes desde então, mas acho que pelo código é possível "reconstruir" o banco.
 
+Lembro de ter começado a desenvolver uma página inicial, mas ela não está aqui, então...
+
 <img src="https://i.imgur.com/63hyOcy.png">
 
 <b>PT/BR</b> <br>
