@@ -4,7 +4,7 @@ Este é um projeto antigo e abandonado meu, que comecei a desenvolver em paralel
 
 Se quiser reusar alguma coisa daí, sinta-se livre, mas acho que não conseguirá. Nem o Banco de Dados tenho mais, já que formatei o computador algumas vezes desde então, mas acho que pelo código é possível "reconstruir" o banco.
 
-Lembro de ter começado a desenvolver uma página inicial, mas ela não está aqui, então...
+Recuperei o que havia do index salvo neste repositório, e ele não é muita coisa também. Tem alguns trechos de consultas que eram do banco do BR, mas que provavelmente não existiam aqui porque ainda não havia criado, então estavam comentadas. Essas consultas, em sua maioria, não foram feitas por mim, mas herdadas do que joaoguarana e Gaker haviam feito.
 
 <img src="https://i.imgur.com/63hyOcy.png">
 
