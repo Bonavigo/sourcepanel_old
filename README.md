@@ -6,6 +6,8 @@ Se quiser reusar alguma coisa daí, sinta-se livre, mas acho que não conseguir�
 
 Recuperei o que havia do index salvo neste repositório, e ele não é muita coisa também. Tem alguns trechos de consultas que eram do banco do BR, mas que provavelmente não existiam aqui porque ainda não havia criado, então estavam comentadas. Essas consultas, em sua maioria, não foram feitas por mim, bem como alguns outros trechos na página, mas herdadas do que joaoguarana e Gaker haviam feito.
 
+## TALVEZ, SE EU TIVER PACIÊNCIA, RECOMEÇAREI O PROJETO PAR A ESTUDAR, MAS NÃO SEI SE DEIXAREI ELE PÚBLICO
+
 <img src="https://i.imgur.com/63hyOcy.png">
 
 <b>PT/BR</b> <br>
